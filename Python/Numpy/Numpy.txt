@@ -1,0 +1,2 @@
+import numpy as np
+myArr = np.array([3, 6, 4, 5])
